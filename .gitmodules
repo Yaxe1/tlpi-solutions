@@ -1,0 +1,3 @@
+[submodule "tlpi-dist"]
+	path = tlpi-dist
+	url = git@github.com:bradfa/tlpi-dist.git

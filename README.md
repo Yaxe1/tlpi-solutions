@@ -1,2 +1,2 @@
-# tlpi-solutions
-Solutions to exercises in The Linux Programming Interface by Michael Kerrisk
+# The Linux Programming Interface Exercises and Solutions
+
